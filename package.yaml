@@ -1,0 +1,10 @@
+dependencies:
+  bme280:
+    url: github.com/toitware/bme280-driver
+    version: ^1.0.0
+  scd30:
+    url: github.com/qvisten999/scd30
+    version: ^1.0.0
+  udp_broadcast:
+    url: github.com/lask/udp-broadcast
+    version: ^0.1.3

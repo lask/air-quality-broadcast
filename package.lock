@@ -1,0 +1,17 @@
+prefixes:
+  bme280: bme280-driver
+  scd30: scd30
+  udp_broadcast: udp-broadcast
+packages:
+  bme280-driver:
+    url: github.com/toitware/bme280-driver
+    version: 1.0.0
+    hash: 65b88ac19a5e2b48627a2dbae6d7757ae45c502c
+  scd30:
+    url: github.com/qvisten999/scd30
+    version: 1.0.0
+    hash: 11eb2e9e1c87bf5f5d4a54326adc9cff031b85b7
+  udp-broadcast:
+    url: github.com/lask/udp-broadcast
+    version: 0.1.3
+    hash: 04d94107c4adb578bc9586b38c396594dad5a2f3
